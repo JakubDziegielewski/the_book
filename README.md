@@ -1,1 +1,1 @@
-My code written for exercises for "The Rust Prorgramming Language" book
+My code written as an exercise while studying "The Rust Programming Language"
